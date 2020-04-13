@@ -1,0 +1,5 @@
+pyaes
+pytuya
+mss
+opencv-python
+numpy
